@@ -1,16 +1,25 @@
-## Hi there 👋
+## Qualia Formalis
 
-<!--
-**qualiaformalis/qualiaformalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**in search of the perfect abstraction**
 
-Here are some ideas to get you started:
+the formal expresses itself especially in the interactive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+after falling body and soul into the experience,<br>
+taking a few steps back reveals the formal
+
+the qualia of everything, so misunderstood
+
+<br>
+
+---
+
+<sub>🇧🇷 português</sub>
+
+<sub>**em busca da abstração perfeita**</sub>
+
+<sub>o formal se expressa especialmente no interativo</sub>
+
+<sub>após cair de corpo e alma na experiência,<br>
+dar alguns passos pra trás revela o formal</sub>
+
+<sub>os qualia de tudo, tão incompreendidos</sub>
